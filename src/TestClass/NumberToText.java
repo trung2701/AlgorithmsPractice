@@ -31,6 +31,6 @@ public class NumberToText {
 	
 	public static void main(String [] args){
 		Translating translate = new Translating();
-		System.out.println("Number in text is: " + translate.TranslateNumber(9999));
+		System.out.println("Number in text is: " + translate.TranslateNumber(99599));
 	}
 }
